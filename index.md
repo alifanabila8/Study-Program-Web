@@ -73,7 +73,7 @@ color: aqua;
   <h1> BiodataKu</h1>
 <hr>
  
-<img src=https:" width="150px"  alt="">
+<img src=20180211_112433 Windows Photo Viewer " width="150px"  alt="">
 <br><br>    
 
 <a href="http://gmail.com/alifanabilaj">Gmail</a>
