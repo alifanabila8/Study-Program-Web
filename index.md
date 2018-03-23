@@ -76,7 +76,7 @@ color: aqua;
 <img src=20180211_112433 Windows Photo Viewer " width="150px"  alt="">
 <br><br>    
 
-<a href="http://gmail.com/alifanabilaj">Gmail</a>
+<a href="http://https://mail.google.com/mail/u/0/?tab=wm#inbox/alifanabilaj">Gmail</a>
 <a href="http://instagram.com/alifanabilaj">Instagram</a>
 <a href="http://github.com/alifanabila8">Github</a>
 
