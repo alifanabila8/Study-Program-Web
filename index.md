@@ -83,9 +83,9 @@ color: aqua;
 <br>
 
 <p>Nama     : Alifa Nabila Joanita</p>
-<p>Alamat   : Taman Setiabudi C-17 </p>
+<p>Alamat   : Perumahan Taman Setiabudi C-17 </p>
 <p>Kota     : Semarang</p>
-<p>Jurusan  : HUKUM</p>
+<p>Jurusan  : Law </p>
 
 
 
@@ -113,7 +113,7 @@ color: aqua;
 <hr>
 
 center>
-<p> |  Rizki Mufti Ilmawan | </p>
+<p> |  Alifa Nabila Joanita | </p>
 </center>
 
 <hr>
