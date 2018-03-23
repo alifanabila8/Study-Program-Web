@@ -73,7 +73,7 @@ color: aqua;
   <h1> BiodataKu</h1>
 <hr>
  
-<img src=https://plus.google.com/u/0/photos/109010794142682055727/albums/profile/6536142683570757650?iso=false"width="150px"  alt="">
+<img src=https://plus.google.com/u/0/photos/109010794142682055727/albums/profile/6536142683570757650?iso=false.jpg" width="150px"  alt="">
 <br><br>    
 
 <a href="http://https://mail.google.com/alifanabilaj@gmail.com">Gmail</a>
