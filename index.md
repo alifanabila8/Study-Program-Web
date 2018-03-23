@@ -73,10 +73,10 @@ color: aqua;
   <h1> BiodataKu</h1>
 <hr>
  
-<img src=https://www.instagram.com/alifanabilaj/" width="150px"  alt="">
+<img src=https:" width="150px"  alt="">
 <br><br>    
 
-<a href="http://line.com/alifanabila8">Facebook</a>
+<a href="http://gmail.com/alifanabilaj">Gmail</a>
 <a href="http://instagram.com/alifanabilaj">Instagram</a>
 <a href="http://github.com/alifanabila8">Github</a>
 
