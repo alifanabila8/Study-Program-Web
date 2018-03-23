@@ -73,7 +73,7 @@ color: aqua;
   <h1> BiodataKu</h1>
 <hr>
  
-<img src="https://www.google.co.id/search?dcr=0&biw=1280&bih=669&tbm=isch&sa=1&ei=FRC1WuioLcXkvASth4vwDA&q=flower&oq=flower&gs_l=psy-ab.3..0i67k1l2j0l6j0i67k1j0.477726.483079.0.483212.26.11.0.1.1.0.212.821.0j1j3.5.0....0...1c.1.64.psy-ab..20.4.630.0...248.oVNm1b7v6E0" width="150px"  alt="">
+<img src="https://www.instagram.com/alifanabilaj/?hl=id" width="150px"  alt="">
 <br><br>    
 
 <a href="http://https://mail.google.com/alifanabilaj@gmail.com">Gmail</a>
