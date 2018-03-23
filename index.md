@@ -1,37 +1,122 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Alifa Nabila Joanita</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/alifanabila8/Study-Program-Web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+body
+(
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+background-color: gray;  ;
+text-align: center;
+.
+)
 
-### Markdown
+h1(
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+font-family: Arial;
+font-size: 30px;
 
-```markdown
-Syntax highlighted code block
+)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+p{
 
-1. Numbered
-2. List
+font-family: Verdana;
 
-**Bold** and _Italic_ and `Code` text
+)
 
-[Link](url) and ![Image](src)
-```
+img{
+border-radius: 50%;
+)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+.navatas a{
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alifanabila8/Study-Program-Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+float: left;
+color: white;
+padding: 14px;
+text-decoration: none;
+font-size: 16px;
 
-### Support or Contact
+)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+.navatas a:hover
+{
+background-color: black;
+color: aqua;
+
+)
+
+
+</style>
+
+
+<body>
+  
+<div class="navatas">
+<a href="#biodata"> Biodata</a>
+<a href="#pendidikan"> Pendidikan</a>
+<a href="#kisahku">kisahku</a>
+  
+<br><br><br>
+<!-- br memberikan enter pada paragraf dsb -->
+
+<hr>
+<!-- hr untuk membuat garis horizontal -->
+
+
+</div>
+
+<div id="biodata">
+  <h1> BiodataKu</h1>
+<hr>
+ 
+<img src="https://cdn.sindonews.net/dyn/620/content/2017/11/23/158/1259787/kelemahan-monkey-d-luffy-terungkap-di-one-piece-chapter-885-grB.jpg" width="150px"  alt="">
+<br><br>    
+
+<a href="http://line.com/alifanabila8">Facebook</a>
+<a href="http://instagram.com/alifanabilaj">Instagram</a>
+<a href="http://github.com/alifanabila8">Github</a>
+
+<br>
+
+<p>Nama     : Alifa Nabila Joanita</p>
+<p>Alamat   : Taman Setiabudi C-17 </p>
+<p>Kota     : Semarang</p>
+<p>Jurusan  : HUKUM</p>
+
+
+
+
+<hr>
+    <div id="pendidikan">
+            <h1>Pendidikan</h1>
+            <hr>
+
+            <p>SD Islam Hidayatullah</p>
+            <p> SMP Islam Hidayatullah</p>
+            <p>SMAN 9 Semarang</p>
+            <p>Universitas </p>
+
+</div>
+
+        <hr>
+        <h1>Kisahku</h1>
+        <div id="kisahku">
+
+<p>Aku I am student faculty of law</p>
+
+        </div>
+        <br><br>
+<hr>
+
+center>
+<p> |  Rizki Mufti Ilmawan | </p>
+</center>
+
+<hr>
+
+</body>
+</html>
