@@ -73,7 +73,7 @@ color: aqua;
   <h1> BiodataKu</h1>
 <hr>
  
-<img src="https://cdn.sindonews.net/dyn/620/content/2017/11/23/158/1259787/kelemahan-monkey-d-luffy-terungkap-di-one-piece-chapter-885-grB.jpg" width="150px"  alt="">
+<img src=https://www.instagram.com/alifanabilaj/" width="150px"  alt="">
 <br><br>    
 
 <a href="http://line.com/alifanabila8">Facebook</a>
