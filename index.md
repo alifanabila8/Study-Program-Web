@@ -96,7 +96,7 @@ color: aqua;
             <hr>
 
             <p>SD Islam Hidayatullah</p>
-            <p> SMP Islam Hidayatullah</p>
+            <p>SMP Islam Hidayatullah</p>
             <p>SMAN 9 Semarang</p>
             <p>Universitas </p>
 
@@ -106,7 +106,7 @@ color: aqua;
         <h1>Kisahku</h1>
         <div id="kisahku">
 
-<p>Aku I am student faculty of law</p>
+<p>I am student faculty of law</p>
 
         </div>
         <br><br>
